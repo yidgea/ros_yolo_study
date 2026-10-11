@@ -1,0 +1,13 @@
+build/
+devel/
+install/
+logs/
+*.pt
+*.weights
+*.pth
+*.onnx
+*.avi
+*.mp4
+__pycache__/
+*.pyc
+.vscode/
